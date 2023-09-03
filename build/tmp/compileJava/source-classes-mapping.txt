@@ -1,0 +1,34 @@
+app/repository/AuthorityRepo.java
+ app.repository.AuthorityRepo
+app/entity/Authority.java
+ app.entity.Authority
+app/entity/DataSource.java
+ app.entity.DataSource
+app/controller/RegistrationController.java
+ app.controller.RegistrationController
+app/repository/MotorizationRepo.java
+ app.repository.MotorizationRepo
+app/service/AuthorityService.java
+ app.service.AuthorityService
+app/controller/LoginController.java
+ app.controller.LoginController
+app/entity/AuthorityPK.java
+ app.entity.AuthorityPK
+app/repository/UserRepo.java
+ app.repository.UserRepo
+app/service/UserService.java
+ app.service.UserService
+app/service/MotorizationService.java
+ app.service.MotorizationService
+app/controller/MotorizationController.java
+ app.controller.MotorizationController
+app/AdditionalClass.java
+ app.AdditionalClass
+app/entity/Motorization.java
+ app.entity.Motorization
+app/controller/SearchCarsController.java
+ app.controller.SearchCarsController
+app/entity/User.java
+ app.entity.User
+app/controller/UserController.java
+ app.controller.UserController
